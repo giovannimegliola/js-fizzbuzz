@@ -23,5 +23,5 @@ for (let i = 1; i <= 100; i++) {
     square.style.backgroundColor = "green";
   }
 
-  document.querySelector(".container").appendChild(square);
+  document.querySelector(".container").append(square);
 }
